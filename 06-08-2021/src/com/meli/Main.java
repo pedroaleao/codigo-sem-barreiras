@@ -11,7 +11,7 @@ public class Main {
         var programaDeveContinuarExecucao = true;
          try ( Scanner in = new Scanner(System.in);){
                  while (programaDeveContinuarExecucao) {
-                     
+
                  }
              }
          }

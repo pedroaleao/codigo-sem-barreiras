@@ -1,0 +1,13 @@
+Exercícios 03
+
+1 - Escreva um algoritmo que leia números insira em um array e após mostre os números informados na tela.
+
+2 - Escreva um algoritmo que leia números, insira em um array e após mostre a quantidade de números negativos.
+
+3 - Escreva um algoritmo que leia números, insira em um array e após mostre a quantidade de números pares.
+
+4 - Escreva um algoritmo que leia números, insira em um array e após mostre o maior valor.
+
+5 - Escreva um algoritmo que simula um jogo da forca simples. o usuario precisara adivinhar uma palavra chutando cada
+letra em no máximo 10 chutes, caso o usuario acerte a letra o jogo dirá que ele acertou, caso tenha errado, o numero de
+tentativas vai diminuindo. Caso o numero de tentativas chegue a 0 o usuário perde.

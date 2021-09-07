@@ -152,11 +152,7 @@ public class Revisao {
         }
 
         //Enhanced switch
-        switch (inteira) {
-            case "asd" -> System.out.println("Você escolheu o 0");
-            case "qwert" -> System.out.println("Você escolheu o 1");
-            default -> System.out.println("Você escolheu algo que eu não sei o que é");
-        }
+        System.out.println("Você escolheu o 0");
     }
 
 
