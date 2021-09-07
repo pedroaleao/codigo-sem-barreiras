@@ -11,7 +11,7 @@ public class Exercicio2 {
 
         System.out.println("Numero antecessor "+--numero);
         // mostrar o antecessor
-        scanner.close();;
+        scanner.close();
         System.out.println("-----------------FIM EXE 2---------------");
     }
 }
