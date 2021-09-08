@@ -29,10 +29,7 @@ public class Exercicio02 {
                     .forEach(System.out::println);
         }
 
-
     }
-
-
 
     public static void main(String[] args) {
          comLista();

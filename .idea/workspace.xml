@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db76c9fe-3c1a-445d-bfa4-40581c269bd0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/24-08/Exemplo2/Exemplo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/24-08/Exemplo2/Exemplo2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24-08/Exercicio3/Exercicio3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/24-08/Exercicio3/Exercicio3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24-08/exemplo1/exemplo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/24-08/exemplo1/exemplo1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26-08/src/com/alelo/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/26-08/src/com/alelo/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-java-resolucoes/src/parte_02/classes_e_objetos/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-java-resolucoes/src/parte_02/classes_e_objetos/Pessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-java-resolucoes/src/parte_02/classes_e_objetos/exercicio_06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-java-resolucoes/src/parte_02/classes_e_objetos/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-java-resolucoes/src/parte_02/exercicio_02/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/curso-java-resolucoes/src/parte_02/exercicio_02/Exercicio02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,7 @@
       <updated>1630452437308</updated>
       <workItem from="1630452440015" duration="1083000" />
       <workItem from="1630521595799" duration="5000" />
+      <workItem from="1631106931297" duration="129000" />
     </task>
     <servers />
   </component>
